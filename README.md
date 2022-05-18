@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div align="center">
+
+[![Visits Badge](https://badges.pufler.dev/visits/alxschwrz/alxschwrz)](https://www.github.com/alxschwrz)
+
+ </div>
+
+
 <!--
 **alxschwrz/alxschwrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
