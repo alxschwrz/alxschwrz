@@ -4,8 +4,9 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/alxschwrz/alxschwrz)](https://www.github.com/alxschwrz)
 
- </div>
+</div>
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alxschwrz&show_icons=true&hide_border=true&layout=compact&text_color=c9cacc&title_color=ffffff&bg_color=1d1f21)
 
 <!--
 **alxschwrz/alxschwrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
