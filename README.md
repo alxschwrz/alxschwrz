@@ -8,7 +8,9 @@
   &nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alxschwrz&theme=monokai)
  &nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alxschwrz&theme=monokai)
 
+stats:
 
+<img src="https://badges.pufler.dev/visits/alxschwrz/codex_py2cpp?style=for-the-badge&color=96CDFB&logoColor=white&labelColor=302D41"/>
 
 <!--
 **alxschwrz/alxschwrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
