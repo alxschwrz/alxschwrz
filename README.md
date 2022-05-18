@@ -11,6 +11,13 @@
 
 ![Git Status](https://github-readme-stats.vercel.app/api?username=alxschwrz&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21)
 
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alxschwrz&theme=monokai)
+  &nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alxschwrzr&theme=monokai)
+ &nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alxschwrz&theme=monokai)
+
+
+
 <!--
 **alxschwrz/alxschwrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
