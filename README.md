@@ -1,16 +1,13 @@
 ### Alex 🔭
 
+* M.Sc. AI & Robotics student at the [Technical University of Munich](https://www.tum.de/en/).
 
+<!--
 ![alt text](helix_nebula_4k.jpg?raw=true)
-
-
  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alxschwrz&theme=monokai)
   &nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alxschwrz&theme=monokai)
- &nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alxschwrz&theme=monokai)
-
-stats:
-
-<img src="https://badges.pufler.dev/visits/alxschwrz/codex_py2cpp?style=for-the-badge&color=96CDFB&logoColor=white&labelColor=302D41"/>
+  -->
+ &nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alxschwrz&theme=default)
 
 <!--
 **alxschwrz/alxschwrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
