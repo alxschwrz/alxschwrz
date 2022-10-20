@@ -1,6 +1,6 @@
 ### Alex 🔭
 
-* M.Sc. AI & Robotics student at the Technical University of Munich
+M.Sc. AI & Robotics student at the Technical University of Munich
 
 <!--
 ![alt text](helix_nebula_4k.jpg?raw=true)
